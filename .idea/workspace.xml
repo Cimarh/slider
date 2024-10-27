@@ -78,7 +78,7 @@
       <updated>1730020241756</updated>
       <workItem from="1730020243196" duration="509000" />
       <workItem from="1730020915021" duration="44000" />
-      <workItem from="1730020960886" duration="2031000" />
+      <workItem from="1730020960886" duration="2707000" />
     </task>
     <task id="LOCAL-00001" summary="перенос в git">
       <option name="closed" value="true" />
@@ -96,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730022743369</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="перенос в git">
+      <option name="closed" value="true" />
+      <created>1730023434485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730023434485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
